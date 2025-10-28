@@ -1,13 +1,13 @@
 {
     "id": "fossilizedmemes",
     "servers": [
-        "https://mirrors.thpatch.net/aimkoane/fossilizedmemes/"
+        "https://github.com/Aimkoane/aimkoanethcrap"
     ],
-    "title": "Touhou Kinjoukyou ~ Fossilized Memes",
+    "title": "Touhou Kinjoukyou Fossilized Memes",
     "dependencies": [
         "nmlgc/base_tsa",
         "nmlgc/script_latin",
-        "nmlgc/western_name_order"
+        "nmlgc/western_name_order",
         "thpatch/lang_en"
     ]
 }
