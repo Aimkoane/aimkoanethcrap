@@ -795,7 +795,7 @@
     "th20_02": "Beloved Ancient Memes",
     "th20_03": "Even if Lost into Irrelevance",
     "th20_04": "Sigma Forest (Sacred Memes Reborn)",
-    "th20_05": "There's a Monster Among UsWoods",
+    "th20_05": "There's a Monster Among Us",
     "th20_06": "Golden Memes of Prester John",
     "th20_07": "Might as Well Stake Your Life to Stay Viral",
     "th20_08": "Goofy-Ahh Labyrinth",
