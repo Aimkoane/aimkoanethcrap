@@ -7,13 +7,13 @@
         },
         "42_0": {
             "lines": [
-                "The sigma's sanctuary is reacting."
+                "The sanctuary is reacting."
             ]
         },
         "50_0": {
             "lines": [
                 "And the key lies, no doubt,",
-                "in this dank stone."
+                "in this blue stone."
             ]
         },
         "118_0": {
@@ -24,30 +24,31 @@
         },
         "156_0": {
             "lines": [
-                "What have you done to the Sigma Sanctuary?"
+                "What have you done to the sanctuary?"
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "Now I can't get inside!"
             ]
         },
         "172_0": {
             "lines": [
-                "The Sigma Sanctuary's been sealed by a mysterious power.",
-                "Don't interfere in my investigation."
+                "From here on, who knows what's going to happen to the sanctuary.",
+                "It's dangerous, so you should run away."
             ]
         },
         "180_0": {
             "lines": [
                 "What?",
-                "|\tBut \t,\tthis Sigma Sanctuary\t,here",
-                "But this Sigma Sanctuary is our home."
+                "|\tBut \t,\tthis sanctuary\t,here",
+                "But this sanctuary is our home."
             ]
         },
         "188_0": {
             "lines": [
-                "How could I be interfering?!"
-            ]
-        },
-        "164_0": {
-            "lines": [
-                "Let me speak to your manager."
+                "Even if I run away, there's no",
+                "other place for me to go!"
             ]
         }
     },
@@ -55,19 +56,18 @@
         "34_0": {
             "lines": [
                 "What's that?",
-                "You're the manager...?"
+                "That blue stone...?"
             ]
         },
         "42_0": {
             "lines": [
-                "I'm not the manager, buddy.",
-                "The Sigma Sanctuary is reacting to this stone."
+                "The sanctuary is reacting to this stone."
             ]
         },
         "50_0": {
             "lines": [
-                "It wasn't me who did anything.",
-                "It was the Sigma Sanctuary itself."
+                "It wasn't me who drove you out.",
+                "It was the sanctuary itself."
             ]
         },
         "58_0": {
@@ -75,21 +75,21 @@
                 "Oh, is that so?"
             ]
         },
+        "66_0": {
+            "lines": [
+                "With the power of the incident stored in this stone, ",
+                "I'll restore the sanctuary back to how it was before!"
+            ]
+        },
         "74_0": {
             "lines": [
-                "The secrets of the Sigma Sanctuary?"
+                "Restore the sanctuary back?"
             ]
         },
         "82_0": {
             "lines": [
-                "There's nothing here but sigmas",
-                "and alphas, though..."
-            ]
-        },
-        "66_0": {
-            "lines": [
-                "With the power of the dank memes stored in this stone,",
-                "I'll unveil the great dankness of the Sigma Sanctuary!"
+                "Well, if that's the case, no reason",
+                "for me to stand in your way."
             ]
         }
     }

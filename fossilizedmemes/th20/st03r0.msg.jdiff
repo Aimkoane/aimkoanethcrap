@@ -1,0 +1,220 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "This is... the altar?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "The altar is a pyramid?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "I wonder if there's an entrance somewhere."
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "Huh? Is that a human?"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Wow, wooow."
+            ]
+        },
+        "164_0": {
+            "lines": [
+                "I wonder how long it's been",
+                "since I last met a human."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Seems like a gatekeeper has arrived."
+            ]
+        },
+        "180_0": {
+            "lines": [
+                "Guess I'll be getting a guide."
+            ]
+        },
+        "188_0": {
+            "lines": [
+                "Oh, right! Meeting a human",
+                "means I've got to do <i$that>..."
+            ]
+        },
+        "196_0": {
+            "lines": [
+                "<i$What has four legs in the morning,>",
+                "<i$two legs in the afternoon,>"
+            ]
+        },
+        "212_0": {
+            "lines": [
+                "Huh? What an old-fashioned riddle..."
+            ]
+        },
+        "220_0": {
+            "lines": [
+                "It's a human, right?"
+            ]
+        },
+        "228_0": {
+            "lines": [
+                "Wrong!"
+            ]
+        },
+        "236_0": {
+            "lines": [
+                "The answer is... some kind of youkai that looks like that!",
+                "Like a nue or something."
+            ]
+        },
+        "244_0": {
+            "lines": [
+                "For answering incorrectly,",
+                "you are now destined to die here!"
+            ]
+        },
+        "204_0": {
+            "lines": [
+                "<i$and three legs in the evening?>"
+            ]
+        }
+    },
+    "1": {
+        "34_0": {
+            "lines": [
+                "How dare you desecrate",
+                "that sacred riddle..."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "Which of us was desecrating it again...?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Anyways, you're a Dousojin, right?"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Can't you tell just by looking?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "So that means you're the one ",
+                "blocking off the way into the pyramid."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "An emergency?",
+                "Is something going on right now?"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "But it's an emergency,",
+                "so I need you to let me through here."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Gensokyo has come to a standstill."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Standstill?",
+                "What do you mean?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "Well, to be more specific, the same day has",
+                "been repeating over and over with no change at all."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "What I finally managed to discover was",
+                "this sanctuary that was acting strangely,"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "and this incident's power",
+                "that continued to change."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "I understand that you're the Dousojin",
+                "protecting this place,"
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "but just this once, I need you to let me pass."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "...Hmmm."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "You're misunderstanding things."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "I'm a Dousojin that protects <i$humans>."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "I'm placed here in order to prevent anything from",
+                "escaping from the altar."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "I don't have any reason to stop things",
+                "from getting in. Here, I'll even guide you."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Huh? R-really?"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "As you can probably guess by looking, ",
+                "this pyramid has four different entrances."
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "You have a violently burning power,",
+                "so it's best you go through the south entrance."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "Although, I don't know",
+                "what's inside this place either."
+            ]
+        }
+    }
+}

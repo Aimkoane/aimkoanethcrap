@@ -1,0 +1,234 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "Is this... a shrine gate?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "I've never seen a shrine gate",
+                "this ominous before."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Why would anyone put this in",
+                "the bottom of a pyramid, of all places..."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "You've finally arrived."
+            ]
+        },
+        "148_0": {
+            "lines": [
+                "I've heard that the people of",
+                "Gensokyo are short-tempered,"
+            ]
+        },
+        "152_0": {
+            "lines": [
+                "but you certainly took your time."
+            ]
+        },
+        "160_0": {
+            "lines": [
+                "You are...?"
+            ]
+        },
+        "168_0": {
+            "lines": [
+                "I am Ariya Iwanaga.",
+                "The lord of this shrine."
+            ]
+        },
+        "176_0": {
+            "lines": [
+                "So it really <i$is> a shrine."
+            ]
+        },
+        "184_0": {
+            "lines": [
+                "But why is it located",
+                "at the bottom of a pyramid?"
+            ]
+        },
+        "192_0": {
+            "lines": [
+                "Why...?"
+            ]
+        },
+        "200_0": {
+            "lines": [
+                "The \"pyramid\" you speak of",
+                "<i$is> the main hall of this shrine."
+            ]
+        },
+        "208_0": {
+            "lines": [
+                "What?"
+            ]
+        },
+        "216_0": {
+            "lines": [
+                "This pyramid... The Asama Purifying Mountain",
+                "is a shrine that cleanses impurities coming from humans."
+            ]
+        },
+        "224_0": {
+            "lines": [
+                "The shrine's purpose is to make",
+                "the Lunar Capital an eternal city."
+            ]
+        },
+        "232_0": {
+            "lines": [
+                "Hmm... what do you mean? Is it related to the incident",
+                "that caused the surface to come to a standstill?"
+            ]
+        },
+        "240_0": {
+            "lines": [
+                "Recently, there's been an explosion in volume about",
+                "human impurity, which means, information about life."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "The cause seems to lie in the Outside World...",
+                "but the details don't matter."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "What matters is that because of it,  ",
+                "the capacity of this place has been vastly exceeded."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "And... what's that supposed to mean?"
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "The unprocessed human information will",
+                "eventually bring ruin to the Lunar Capital."
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "Ah, so <i$that> was",
+                "the incident Toyohime mentioned..."
+            ]
+        },
+        "288_0": {
+            "lines": [
+                "Toyohime... Oh, that one?",
+                "She made a grave mistake."
+            ]
+        },
+        "296_0": {
+            "lines": [
+                "In order to neutralize the information that",
+                "Yuiman could no longer process,"
+            ]
+        },
+        "304_0": {
+            "lines": [
+                "she broke my seal."
+            ]
+        },
+        "312_0": {
+            "lines": [
+                "Even though she knew I carry a grudge",
+                "against the Lunar Capital."
+            ]
+        },
+        "320_0": {
+            "lines": [
+                "She intended in sacrificing Gensokyo's freedom",
+                "in order to save the Lunar Capital."
+            ]
+        },
+        "328_0": {
+            "lines": [
+                "What?",
+                "Sacrificing Gensokyo?"
+            ]
+        },
+        "336_0": {
+            "lines": [
+                "Indeed, it was my power that stopped Gensokyo."
+            ]
+        },
+        "344_0": {
+            "lines": [
+                "Not the power of the pyramid, Asama Purifying Mountain.",
+                "Not the power of the Lunarians. <i$My> power."
+            ]
+        },
+        "352_0": {
+            "lines": [
+                "The power of perpetuity that",
+                "refuses the evolution of all things!"
+            ]
+        },
+        "360_0": {
+            "lines": [
+                "Now, this time,",
+                "may humanity be granted eternal peace!"
+            ]
+        }
+    },
+    "2": {
+        "30_0": {
+            "lines": [
+                "Do you see it too?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "The impurity is beginning to fill everything."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "It's dwindling away, you know.",
+                "That lifetime of yours..."
+            ]
+        }
+    },
+    "3": {
+        "34_0": {
+            "lines": [
+                "Unfortunately, your time's up.",
+                "Our little game ends here."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "The sanctuary won't hold up",
+                "against any more impurity."
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "With my power, I'll purify it all."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "From this point on is a world of stasis,",
+                "where life itself is an anomaly!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Perpetuity shall be upon Gensokyo!"
+            ]
+        }
+    }
+}

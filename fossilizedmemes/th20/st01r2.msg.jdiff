@@ -7,13 +7,13 @@
         },
         "42_0": {
             "lines": [
-                "The sigma's sanctuary is reacting."
+                "The Sigma Sanctuary is reacting."
             ]
         },
         "50_0": {
             "lines": [
                 "And the key lies, no doubt,",
-                "in this dank stone."
+                "in this dank meme."
             ]
         },
         "118_0": {
@@ -27,10 +27,15 @@
                 "What have you done to the Sigma Sanctuary?"
             ]
         },
+        "164_0": {
+            "lines": [
+                "Now I can't get inside!"
+            ]
+        },
         "172_0": {
             "lines": [
-                "The Sigma Sanctuary's been sealed by a mysterious power.",
-                "Don't interfere in my investigation."
+                "It seems like the Sigma Sanctuary is being infested by something.",
+                "It's dangerous, so you should run away."
             ]
         },
         "180_0": {
@@ -42,12 +47,8 @@
         },
         "188_0": {
             "lines": [
-                "How could I be interfering?!"
-            ]
-        },
-        "164_0": {
-            "lines": [
-                "Let me speak to your manager."
+                "Barging in here as rude as that,",
+                "Let me speak to your manager!"
             ]
         }
     },
@@ -55,19 +56,18 @@
         "34_0": {
             "lines": [
                 "What's that?",
-                "You're the manager...?"
+                "That weird meme...?"
             ]
         },
         "42_0": {
             "lines": [
-                "I'm not the manager, buddy.",
-                "The Sigma Sanctuary is reacting to this stone."
+                "The Sigma Sanctuary is reacting to this meme."
             ]
         },
         "50_0": {
             "lines": [
-                "It wasn't me who did anything.",
-                "It was the Sigma Sanctuary itself."
+                "It wasn't me who drove you out.",
+                "It was the Sigmas themself."
             ]
         },
         "58_0": {
@@ -75,21 +75,21 @@
                 "Oh, is that so?"
             ]
         },
+        "66_0": {
+            "lines": [
+                "With the power of dankness stored in this meme, ",
+                "I'll revive every meme!"
+            ]
+        },
         "74_0": {
             "lines": [
-                "The secrets of the Sigma Sanctuary?"
+                "Revive the memes?"
             ]
         },
         "82_0": {
             "lines": [
-                "There's nothing here but sigmas",
-                "and alphas, though..."
-            ]
-        },
-        "66_0": {
-            "lines": [
-                "With the power of the dank memes stored in this stone,",
-                "I'll unveil the great dankness of the Sigma Sanctuary!"
+                "Ah, you mean, like,",
+                "Quandale Dingle or something?"
             ]
         }
     }

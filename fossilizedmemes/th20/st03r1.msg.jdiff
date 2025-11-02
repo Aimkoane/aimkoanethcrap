@@ -10,14 +10,29 @@
                 "The altar is a pyramid?"
             ]
         },
+        "50_0": {
+            "lines": [
+                "I wonder if there's an entrance somewhere."
+            ]
+        },
         "118_0": {
             "lines": [
-                "Huh? Is that a memer?"
+                "Huh? Is that a human?"
+            ]
+        },
+        "156_0": {
+            "lines": [
+                "Wow, wooow."
             ]
         },
         "164_0": {
             "lines": [
-                "I wonder how long it’s been since I last met a memer."
+                "I wonder how long it’s been since I last met a human."
+            ]
+        },
+        "172_0": {
+            "lines": [
+                "Seems like a gatekeeper has arrived."
             ]
         },
         "180_0": {
@@ -27,82 +42,76 @@
         },
         "188_0": {
             "lines": [
-                "Oh, right! Meeting memer",
+                "Oh, right! Meeting a human",
                 "means I've got to do <i$that>..."
             ]
         },
         "196_0": {
             "lines": [
-                "<i$If quizzes are quizzical,>",
-                "<i$then what are...>"
+                "<i$What has four legs in the morning,>",
+                "<i$two legs in the afternoon,>"
             ]
         },
         "204_0": {
             "lines": [
-                "<i$tests?>"
+                "<i$and three legs in the evening?>"
             ]
         },
         "212_0": {
             "lines": [
-                "Huh? What an facinating riddle..."
+                "Huh? What an old-fashioned riddle..."
             ]
         },
         "220_0": {
             "lines": [
-                "They're testicals...?",
-                "FUCK!"
+                "It's a human, right?"
             ]
         },
         "228_0": {
             "lines": [
-                "Hahaha!!"
+                "Wrong!"
             ]
         },
         "236_0": {
             "lines": [
-                "|\tI got you! \t,\tI finally did it!\t,",
-                "It's been so long since",
-                "I got someone with that!"
+                "|\tThe answer is \t,\tsome kind of\t,...",
+                "The answer is some kind of a youkai that looks like that!",
+                "Like a chimi or something."
             ]
         },
         "244_0": {
             "lines": [
-                "Man, for someone this gullible...",
-                "Might as well take you down right here!"
-            ]
-        },
-        "156_0": {
-            "lines": [
-                "Wow, wooow."
-            ]
-        },
-        "172_0": {
-            "lines": [
-                "Seems like a gatekeeper has arrived."
-            ]
-        },
-        "50_0": {
-            "lines": [
-                "I wonder if there's a connection with the Illuminati."
+                "For answering incorrectly,",
+                "you are now destined to die here!"
             ]
         }
     },
     "1": {
         "34_0": {
             "lines": [
-                "How dare you not laugh",
+                "How dare you desecrate",
                 "that sacred riddle..."
             ]
         },
         "42_0": {
             "lines": [
-                "It wasn't even fucking funny.",
-                "I can't believe you made me say testicles..."
+                "Which of us was desecrating it again...?"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Anyways, you're a Dousojin, right?"
             ]
         },
         "58_0": {
             "lines": [
                 "Can't you tell just by looking?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "So that means you're the one ",
+                "blocking off the way into the pyramid."
             ]
         },
         "74_0": {
@@ -117,10 +126,32 @@
                 "Is something going on right now?"
             ]
         },
+        "90_0": {
+            "lines": [
+                "Gensokyo has come to a standstill."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Standstill?",
+                "What do you mean?"
+            ]
+        },
         "106_0": {
             "lines": [
-                "Well, to be more specific, there have been...",
-                "I guess AI slop, brainrot, all over Gensokyo."
+                "Well, to be more specific, the same day has",
+                "been repeating over and over with no change at all."
+            ]
+        },
+        "114_0": {
+            "lines": [
+                "What I finally managed to discover was",
+                "this sanctuary that was acting strangely,"
+            ]
+        },
+        "122_0": {
+            "lines": [
+                "and this incident's power that continued to change."
             ]
         },
         "130_0": {
@@ -144,10 +175,15 @@
                 "You're misunderstanding things."
             ]
         },
+        "162_0": {
+            "lines": [
+                "I'm a Dousojin that protects <i$humans>."
+            ]
+        },
         "170_0": {
             "lines": [
-                "I'm placed here in order to prevent anything cringe",
-                "escaping from the ancient altar."
+                "I'm placed here in order to prevent anything from",
+                "escaping from the altar."
             ]
         },
         "178_0": {
@@ -169,52 +205,13 @@
         },
         "202_0": {
             "lines": [
-                "You have a dank power,",
-                "so it's best you go through the east entrance."
+                "You have a melancholic power,",
+                "so it's best you go through the north entrance."
             ]
         },
         "210_0": {
             "lines": [
-                "Although, I've never been",
-                "inside either."
-            ]
-        },
-        "50_0": {
-            "lines": [
-                "Anyways, you're a Dousojin, right?"
-            ]
-        },
-        "66_0": {
-            "lines": [
-                "So that means you're the one ",
-                "blocking off the way into the Illuminati's HQ."
-            ]
-        },
-        "90_0": {
-            "lines": [
-                "Gensokyo has become infested with slop."
-            ]
-        },
-        "98_0": {
-            "lines": [
-                "Slop?",
-                "What do you mean?"
-            ]
-        },
-        "114_0": {
-            "lines": [
-                "What I finally managed to discover was",
-                "the sigma sanctuary's aura was... questionable,"
-            ]
-        },
-        "162_0": {
-            "lines": [
-                "I'm a Dousojin that protects <i$memers>."
-            ]
-        },
-        "122_0": {
-            "lines": [
-                "and this meme's power that was long forgotten."
+                "At least, I think that makes sense."
             ]
         }
     }
