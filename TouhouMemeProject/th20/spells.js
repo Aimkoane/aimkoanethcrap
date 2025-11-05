@@ -40,7 +40,7 @@
     "100": "Beer Sign \"Bergen Truck\"",
     "101": "Snek Princess \"Snek\"",
     "102": "\"Clash of All the Internet's Memes'\"",
-    "103": "Brainrot \"Tung-Tung Eye\"",
+    "103": "Brainrot \"Tung-Tung's Eye\"",
     "112": "\"Great King of Brainrot\"",
     "104": "AI \"Grok, Kill This mf\"",
     "105": "Conspiracy \"Chemicals That Turn the Frogs Gay\"",
