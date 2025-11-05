@@ -1,9 +1,9 @@
 {
-    "id": "fossilizedmemes",
+    "id": "TouhouMemeProject",
     "servers": [
         "https://github.com/Aimkoane/aimkoanethcrap"
     ],
-    "title": "Touhou Kinjoukyou Fossilized Memes",
+    "title": "Touhou Meme Project",
     "dependencies": [
         "nmlgc/base_tsa",
         "nmlgc/script_latin",
