@@ -2,7 +2,7 @@
     "contact": "discord @aimkoane",
     "id": "aimkoane",
     "patches": {
-        "fossilizedmemes": "Touhou but memes",
+        "TouhouMemeProject": "Touhou but memes",
     },
     "servers": [
         "https://github.com/Aimkoane/aimkoanethcrap"
