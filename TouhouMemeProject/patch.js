@@ -1,7 +1,7 @@
 {
     "id": "TouhouMemeProject",
     "servers": [
-        "https://github.com/Aimkoane/aimkoanethcrap"
+        "https://github.com/Aimkoane/aimkoanethcrap/TouhouMemeProject"
     ],
     "title": "Touhou Meme Project",
     "dependencies": [
