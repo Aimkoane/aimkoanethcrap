@@ -52,7 +52,7 @@
     "109": "Otherworld \"Oumagatoki\"",
     "110": "Earth \"Impurity Within One's Body\"",
     "111": "Moon \"Apollo Reflection Mirror\"",
-    "112": "\"Simple Danmaku for Cornering a Trapped Rat\"",
+    "112": "\"Shitpost for Killing a Medieval Peasant\"",
     "113": "Otherworld \"Hell's Non-Ideal Danmaku\"",
     "114": "Earth \"Rain Falling in Hell\"",
     "115": "Moon \"Lunatic Impact\"",
