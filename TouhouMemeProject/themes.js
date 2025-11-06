@@ -195,7 +195,7 @@
     "th143_09": "Youkai Mountain ~ Mysterious Mountain",
     "th15_01": "The Dank Shrine Maiden Appears",
     "th15_02": "Unforgettable, the Nostalgic Dankness",
-    "th15_03": "Sir, The Rabbit Has Landed",
+    "th15_03": "Ma'am, The Rabbit Has Landed",
     "th15_04": "The Lake Reposts the Cleansed Memes",
     "th15_05": "SEPTEMBR FIRST",
     "th15_06": "The Mysterious Shrine Maiden Scrolling Through Space",
