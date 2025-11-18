@@ -37,8 +37,8 @@
     "92": "Great Meme Reset \"Dankness Atop All Else\"",
     "96": "Illuminati Leadership \"Bling Goddess\"",
     "98": "Illuminati Leadership \"Goddess of Supreme, Eternal Bling\"",
-    "100": "Beer Sign \"Bergen Truck\"",
-    "101": "Snek Princess \"Snek\"",
+    "100": "Fleeting Memes \"Dat Boi\"",
+    "101": "Fleeting Memes \"We Are Number One!\"",
     "102": "\"Clash of All the Internet's Memes'\"",
     "103": "Brainrot \"Tung-Tung's Eye\"",
     "112": "\"Magnificent World of Brainrot\"",
@@ -47,7 +47,7 @@
     "106": "Techbro \"World-Ending Superintelligence\"",
     "107": "Brainrot \"Six, Seven\"",
     "108": "AI \"Artificial Takeover\"",
-    "109": "Rebirth \"Birth of the Neo-Illuminati\"",
+    "109": "Rebirth \"Rebirth of Ariya's Illuminati\"",
     "110": "AI \"Ghibli Usurpation\"",
     "111": "\"Zoltaxian Coverup\""
 }
