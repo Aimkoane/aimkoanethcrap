@@ -1,11 +1,11 @@
 {
-    "contact": "discord @aimkoane",
     "id": "aimkoane",
-    "patches": {
-        "TouhouMemeProject": "Touhou but memes. So far, almost fully modded 20, started work on 14, 15, 17, and 18.",
-    },
+    "title": "aimkoane's dumb ideas",
+    "contact": "discord @aimkoane",
     "servers": [
         "https://github.com/Aimkoane/aimkoanethcrap"
     ],
-    "title": "aimkoane's dumb ideas"
+    "patches": {
+        "TouhouMemeProject": "Touhou but memes. So far, almost modded 20 with bgm, logos, (some) dialogue, character titles, and more. Started work on 8, 14, 15, 16, 17, and 18."
+    }
 }
