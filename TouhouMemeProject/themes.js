@@ -456,7 +456,7 @@
     "th18_12": "Non-Fungible Rainbow",
     "th18_13": "Where are those Dank Memes Now ~ Immemorial Memes",
     "th18_14": "The Great Fantastic Underground Meme Network",
-    "th18_15": "The Gamer Princess Catching Montages",
+    "th18_15": "The Gamer Princess Claiming Montages",
     "th18_16": "The Sunday after the Storm",
     "th18_17": "A Rainbow-Colored World",
     "th18_18": "Player's Score",
