@@ -131,7 +131,7 @@
     "th12_12": "Fanum of Hokkai",
     "th12_13": "Emotional Skyscraper ~ Cosmic Mind",
     "th12_14": "UFO Romance in the Night Sky",
-    "th12_15": "Heian Alien",
+    "th12_15": "Heian Lockin",
     "th12_16": "Youkai Temple",
     "th12_17": "Returning Home from the Sky ~ Sky Dream",
     "th125_01": "Newshound",

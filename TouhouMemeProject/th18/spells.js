@@ -39,7 +39,7 @@
     "96": "\"Himemushi-sama's Uncountable Gaming Feats\"",
     "80": "\"Asylum of Danmaku\"",
     "84": "False Drip \"Yankee With No Brim\"",
-    "85": "Kuda-gitsune \"Bamboo Bonkening\"",
+    "85": "Trickshot \"The Kuda-gitsune's Fantastic Noscope Montage'\"",
     "60": "\"30 Dollar Danmaku\"",
     "44": "Calamitous Star \"Dance of Star-Sparked Wildfire\"",
     "46": "Calamitous Star \"Wild Dance of Star-Sparked Wildfire\"",
