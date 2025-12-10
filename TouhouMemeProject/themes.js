@@ -223,7 +223,7 @@
     "th16_11": "Crazy Meme Dancers",
     "th16_12": "Into the Meme-Matrix",
     "th16_13": "The Concealed Elite Memes",
-    "th16_14": "No More 19 Dollar Fortnite Card!",
+    "th16_14": "No More Giving Fortnite Cards",
     "th16_15": "Meme God Matara ~ Hidden Gem in All Memes.",
     "th16_16": "Unnatural Nature",
     "th16_17": "White Traveler",
